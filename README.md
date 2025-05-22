@@ -21,5 +21,4 @@ This project uses **YOLOv8** (You Only Look Once version 8) for real-time object
 
 ---
 
-## 📁 Directory Structure
 
